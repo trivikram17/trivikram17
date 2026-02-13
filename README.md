@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhmbnhnN2t5b3h5b3h5b3h5b3h5b3h5b3h5b3h5b3h5b3h5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHgASjq7TpQ9j7Q7E1/giphy.gif" width="200" alt="Shinchan Dancing">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhmbnhnN2t5b3h5b3h5b3h5b3h5b3h5b3h5b3h5b3h5b3h5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHgASjq7TpQ9j7Q7E1/giphy.gif" width="250" alt="Shinchan Dancing">
 
 <h1 align="center">Hoi! I'm <span style="color: #FF0000;">Trivikram Varma</span>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -12,9 +12,11 @@
 
 <div align="center">
   <h3> "Action Beam!" </h3>
-  <img src="https://media.giphy.com/media/xT1R9Z8f7uE6L3azwQ/giphy.gif" width="100" align="right">
+  <img src="https://media.giphy.com/media/xT1R9Z8f7uE6L3azwQ/giphy.gif" width="120" align="right"> 
+  <img src="https://media.giphy.com/media/fVfbLMBK8Xp0k/giphy.gif" width="120" align="left">
   <br>
-  Welcome to my creative corner! Like <b>Shinchan</b>, I'm full of energy and curiosity (but slightly more disciplined with code!). I build scalable applications, solve complex algorithms, and I'm always looking for the next adventure in tech.
+  Welcome to my creative corner! Like <b>Shinchan</b>, I'm full of energy and curiosity. <br>
+  I build scalable applications by day, and watch anime by night.
   <br><br>
 </div>
 
@@ -32,9 +34,10 @@
 <br/>
 
 ###  My Tech Arsenal (Action Kamen Gadgets)
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,html,css,react,git,vscode,github,docker&theme=light" />
+  <img src="https://media.giphy.com/media/Q81NcsY6YxK7jxnr4v/giphy.gif" width="50" style="vertical-align:middle"> 
+  <img src="https://skillicons.dev/icons?i=java,ts,js,html,css,react,git,vscode,github,docker&theme=light" style="vertical-align:middle" />
+  <img src="https://media.giphy.com/media/Q81NcsY6YxK7jxnr4v/giphy.gif" width="50" style="vertical-align:middle; transform: scaleX(-1);">
 </div>
 
 <br/>
@@ -74,11 +77,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMxv2/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMxv2/giphy.gif" width="150"> <br>
+  <img src="https://media.giphy.com/media/VDBWPKadMxtMNTnqaP/giphy.gif" width="60"> <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=trivikram17&label=Profile%20Views&color=orange&style=flat" alt="Profile Views" />
   <br>
   <i>"I just want to eat Chocobi and code!"</i>
 </div>
-
-<!-- Last Updated with Shinchan Energy: 2026-02-13 -->
