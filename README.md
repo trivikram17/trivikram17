@@ -79,7 +79,7 @@ explain it, it's bad." - Cory House
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trivikram17&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=trivikram17&limit=5&theme=react&hide_border=true&bg_color=000000&title_color=00D9FF&text_color=FFFFFF&icon_color=FFA116&combine_all_yearly_contributions=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=trivikram17&show_icons=true&theme=react&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=FFA116&text_color=FFFFFF&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
