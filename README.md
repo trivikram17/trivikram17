@@ -120,8 +120,6 @@ drwxr-xr-x  Portfolio/
 │   └─ Stack: JavaScript, HTML, CSS
 │   └─ [View Repository →](https://github.com/trivikram17/Portfolio)
 ```
-│   └─ [View Repository →](https://github.com/trivikram17/Portfolio)
-```
 
 <p align="center">
   <a href="https://github.com/trivikram17/CodeF">
@@ -133,10 +131,11 @@ drwxr-xr-x  Portfolio/
 </p>
 
 ---
+
 ### 🏆 ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trivikram17&theme=onestar&no-frame=true&no-bg=false&column=7&margin-w=5&margin-h=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=trivikram17&theme=algolia&no-frame=true&no-bg=false&column=4&margin-w=10&margin-h=10&row=2" />
 </p>
 
 ---
