@@ -121,23 +121,6 @@ drwxr-xr-x  Portfolio/
 │   └─ [View Repository →](https://github.com/trivikram17/Portfolio)
 ```
 
-<p align="center">
-  <a href="https://github.com/trivikram17/CodeF">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trivikram17&repo=CodeF&theme=react&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=FFA116&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/trivikram17/Chef-C">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trivikram17&repo=Chef-C&theme=react&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=FFA116&text_color=FFFFFF" />
-  </a>
-</p>
-
----
-
-### 🏆 ACHIEVEMENTS
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trivikram17&theme=algolia&no-frame=true&no-bg=false&column=4&margin-w=10&margin-h=10&row=2" />
-</p>
-
 ---
 
 ### 🎯 CURRENT MISSION
