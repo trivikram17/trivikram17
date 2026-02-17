@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Building%20Scalable%20Systems-00D9FF?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-FFA116?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Lives-India-00FF00?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Focus-Building%20Scalable%20Systems-00D9FF?style=flat-square&labelColor=1a1a1a&color=00D9FF&textColor=white" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-FFA116?style=flat-square&labelColor=1a1a1a&color=FFA116&textColor=white" />
 </p>
 
 <p align="center">
