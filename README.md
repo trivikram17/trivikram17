@@ -1,9 +1,9 @@
 ﻿<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1500&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=TRIVIKRAM+VARMA" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1500&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=TRIVIKRAM+VARMA&background=0D111700" alt="Name" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=24&pause=1000&color=FFA116&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Software+Engineer;%F0%9F%9A%80+Full+Stack+Developer;%E2%9A%A1+Problem+Solver;%F0%9F%8C%90+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=24&pause=1000&color=FFA116&center=true&vCenter=true&width=600&background=0D111700&lines=%F0%9F%92%BB+Software+Engineer;%F0%9F%9A%80+Full+Stack+Developer;%E2%9A%A1+Problem+Solver;%F0%9F%8C%90+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -74,17 +74,17 @@ explain it, it's bad." - Cory House
 <br/>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=trivikram17&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FFA116&text_color=FFFFFF&ring_color=00D9FF" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=trivikram17&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFA116&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideNums=FFFFFF" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=trivikram17&show_icons=true&theme=react&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=FFA116&text_color=FFFFFF&ring_color=00D9FF" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=trivikram17&theme=react&hide_border=true&background=000000&stroke=00D9FF&ring=00D9FF&fire=FFA116&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideNums=FFFFFF" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trivikram17&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=trivikram17&limit=5&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FFA116&combine_all_yearly_contributions=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trivikram17&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=trivikram17&limit=5&theme=react&hide_border=true&bg_color=000000&title_color=00D9FF&text_color=FFFFFF&icon_color=FFA116&combine_all_yearly_contributions=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=trivikram17&custom_title=📊%20Contribution%20Activity&bg_color=0D1117&color=00D9FF&line=FFA116&point=FFFFFF&area=true&hide_border=true&area_color=FFA116" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=trivikram17&custom_title=📊%20Contribution%20Activity&bg_color=000000&color=00D9FF&line=FFA116&point=FFFFFF&area=true&hide_border=true&area_color=FFA116" />
 </p>
 
 </details>
@@ -124,10 +124,10 @@ drwxr-xr-x  Portfolio/
 
 <p align="center">
   <a href="https://github.com/trivikram17/CodeF">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trivikram17&repo=CodeF&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FFA116&text_color=FFFFFF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trivikram17&repo=CodeF&theme=react&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=FFA116&text_color=FFFFFF" />
   </a>
   <a href="https://github.com/trivikram17/Chef-C">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trivikram17&repo=Chef-C&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FFA116&text_color=FFFFFF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trivikram17&repo=Chef-C&theme=react&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=FFA116&text_color=FFFFFF" />
   </a>
 </p>
 
