@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/trivikram-varma"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/trivikram-varma-642604399/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:trivikram@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=trivikram17&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
@@ -135,7 +135,7 @@ class CurrentFocus:
     
     def get_contact(self):
         return {
-            "linkedin": "https://linkedin.com/in/trivikram-varma",
+            "linkedin": "https://www.linkedin.com/in/trivikram-varma-642604399/",
             "email": "trivikram@example.com",
             "availability": "Open for interesting projects!"
         }
@@ -146,7 +146,7 @@ class CurrentFocus:
 ### 📫 LET'S CONNECT
 
 <p align="center">
-  <a href="https://linkedin.com/in/trivikram-varma">
+  <a href="https://www.linkedin.com/in/trivikram-varma-642604399/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
   </a>
   <a href="mailto:trivikram@example.com">
