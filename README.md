@@ -159,7 +159,7 @@ Comprehensive collection of competitive programming solutions with detailed expl
 
 ## 🏆 **Achievements & Trophies**
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=trivikram17&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,MultiLanguage)
+[![trophy](https://github-profile-trophy.vercel.app/?username=trivikram17&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -201,17 +201,6 @@ Comprehensive collection of competitive programming solutions with detailed expl
 ### 💭 **Daily Inspiration**
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
-
-</div>
-
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
-  
-### 📊 **Contribution Snake**
-
-![Snake animation](https://raw.githubusercontent.com/trivikram17/trivikram17/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
