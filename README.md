@@ -106,7 +106,7 @@ drwxr-xr-x  CodeF/
 │   └─ [View Repository →](https://github.com/trivikram17/CodeF)
 │
 drwxr-xr-x  Chef-C/
-│   └─ Recipe management & meal planning app
+│   └─ Recipe management and meal planning app
 │   └─ Stack: Java, Spring Boot, PostgreSQL
 │   └─ [View Repository →](https://github.com/trivikram17/Chef-C)
 │
@@ -116,8 +116,10 @@ drwxr-xr-x  LeetC/
 │   └─ [View Repository →](https://github.com/trivikram17/LeetC)
 │
 drwxr-xr-x  Portfolio/
-│   └─ Personal portfolio & project showcase
+│   └─ Personal portfolio and project showcase
 │   └─ Stack: JavaScript, HTML, CSS
+│   └─ [View Repository →](https://github.com/trivikram17/Portfolio)
+```
 │   └─ [View Repository →](https://github.com/trivikram17/Portfolio)
 ```
 
